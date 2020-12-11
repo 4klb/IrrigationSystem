@@ -6,7 +6,7 @@ namespace IrrigationSystem
     {
         static void Main()
         {
-
+            PurposeOfIrrigation purposeOfIrrigation = new PurposeOfIrrigation();
         }
         
     }
