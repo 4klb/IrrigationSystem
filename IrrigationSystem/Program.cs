@@ -8,6 +8,7 @@ namespace IrrigationSystem
         {
             PurposeOfIrrigationSystem purposeOfIrrigation = new PurposeOfIrrigationSystem();
             //комментарий
+            //комментарий №2
         }
         
     }
